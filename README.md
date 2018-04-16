@@ -1,6 +1,8 @@
 # maxlengthJS
 Javascript maxlength validator
 
+![preview](https://i.imgur.com/4D7nwo2.gif)
+
 ## Installation
 Include `jQuery`
 
