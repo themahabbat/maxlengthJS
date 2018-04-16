@@ -1,0 +1,9 @@
+.--maxlength {
+  font-family: Roboto;
+  position: absolute;
+  background: #212121;
+  color: white;
+  box-shadow: 0 0 1px #080808;
+  padding: 5px 6px;
+  border-radius: 4px;
+}
