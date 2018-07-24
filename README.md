@@ -27,4 +27,4 @@ new Maxlength('#inputId');
 ```
 
 ## Customization
-You can write your own css code to inside `--maxlength` class
+You can write your own css code inside `--maxlength` class to change look
